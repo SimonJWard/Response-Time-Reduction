@@ -4,7 +4,7 @@
 ***
 For full details, see the following publications:
 
-Ward, S. J., M. Baljevic, & Weiss, S. M. (2024). “Sensor Response-Time Reduction using Long-Short Term Memory Network Forecasting,”  _Manuscript in preparation_.
+Ward, S. J., Baljevic, M., & Weiss, S. M. (2024). Sensor Response-Time Reduction using Long-Short Term Memory Network Forecasting. _arXiv_ 2404.17144. doi: [10.48550/arXiv.2404.17144](https://doi.org/10.48550/arXiv.2404.17144)
 
 Ward, S. J., & Weiss, S. M. (2023). Reduction in sensor response time using long short-term memory network forecasting. _Proc. SPIE_, __12675__(126750E). doi: [10.1117/12.2676836](https://doi.org/10.1117/12.2676836)
 

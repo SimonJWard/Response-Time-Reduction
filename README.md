@@ -66,27 +66,27 @@ Collection of a sufficiently large dataset was enabled by using an automated rea
 ***
 ### 2.3 Data Visualization
 #### 2.3.1 Full Dataset
-The full experimental dataset, consisting of 387 examples of time series sensor response data, is generated in section 2 of this [notebook](Python/FiguresData.ipynb#FiguresDataSection2)
+The full experimental dataset, consisting of 387 examples of time series sensor response data:
 
 <img src = "/Figures/ExperimentalTrainingDataset.png" width = "300" />
 
-The same plot but only showing a representative sample of protein concentrations can be found in section 3 of the same [notebook](Python/FiguresData.ipynb#FiguresDataSection2)
+The same plot but only showing a representative sample of protein concentrations:
 
 <img src = "https://github.com/SimonJWard/Response-Time-Reduction/blob/main/Figures/RepresentativeExperimentalTrainingDataset.png" width = "300" />
 
 #### 2.3.2 Equilibrium Sensor Response vs Protein Solution Concentration
-The adsorption isotherm, which refers to the variation of equilibrium sensor response with protein concentration, is generated in section 1 of this [notebook](Python/FiguresData.ipynb#FiguresDataSection1)
+The adsorption isotherm, which refers to the variation of equilibrium sensor response with protein concentration:
 
 <img src = "https://github.com/SimonJWard/Response-Time-Reduction/blob/main/Figures/SemilogAverageEquilibriumResponse.png" width = "300" />
 
 ***
 ## 2.4 Model Hyperparameter Tuning
 
-The architecture resulting in minimum loss on the validation dataset was explored through hyperparameter tuning with Keras tuner in this [notebook](Python/ExperimentalDataModelTuner.ipynb#ExperimentalDataModelTunerTop)
+The architecture resulting in minimum loss on the validation dataset was explored through hyperparameter tuning with Keras tuner.
 
 ## 2.5 Model Training
 
-An ensemble of 15 base learners were trained using the optimal hyperparemeters in this [notebook](Python/ExperimentalDataEnsembleModels.ipynb#ExperimentalDataEnsembleModelsTop)
+An ensemble of 15 base learners were trained using the optimal hyperparameters.
 
 ## 2.6 Model Evaluation
 ### 2.6.1 Model Architecture
@@ -103,7 +103,7 @@ The base learner architecture, informed by limited hyperparameter tuning using t
 ***
 ### 2.6.2 Representative Examples of Model Predictions
 
-Six examples of predictions made on experimental sensor response time series are shown in section 1 of this [notebook](Python/FiguresExperimentalDataModel.ipynb#FiguresExperimentalDataModelSection1) individually and in a panel in section 2 of the same [notebook](Python/FiguresExperimentalDataModel.ipynb#FiguresExperimentalDataModelSection2).
+Six examples of predictions made on experimental sensor response time series, individually and in a panel:
 
 <img src = "/Figures/PanelExperimentalEnsemblePredictionIdealResponses.png" width = "400" />
 

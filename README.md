@@ -110,27 +110,27 @@ Six examples of predictions made on experimental sensor response time series, in
 ***
 ### 2.6.3 Histogram Showing Prediction Response Time Improvement 
 
-A histogram comparing the distributions of response times for the unprocessed experimental data and model predictions, including normalized variance which is indicative of signal to noise ratio (S/N) is shown in section 3 of this [notebook](Python/FiguresExperimentalDataModel.ipynb#FiguresExperimentalDataModelSection3).
+A histogram comparing the distributions of response times for the unprocessed experimental data and model predictions, including normalized variance which is indicative of signal to noise ratio (S/N):
 
 <img src = "/Figures/PredictedExperimentalt90HistogramNormVariance.png" width = "300" />
 
 ***
 ### 2.6.4 Box and Whisker Plot Showing Prediction Response Time Improvement 
 
-A box and whisker plot comparing the distributions of response times for the unprocessed experimental data and model predictions is shown in section 4 of this [notebook](Python/FiguresExperimentalDataModel.ipynb#FiguresExperimentalDataModelSection4).
+A box and whisker plot comparing the distributions of response times for the unprocessed experimental data and model predictions:
 
 <img src = "/Figures/BoxandWhiskerPlotExperimentalPredictedt90Ratio.png" width = "300" />
 
 ***
 ### 2.6.5 Comparison of Ensemble Sizes 
 
-The mean and median improvement in response time for different numbers of base learners (1-30) is shown in section 5 of this [notebook](Python/FiguresExperimentalDataModel.ipynb#FiguresExperimentalDataModelSection5).
+The mean and median improvement in response time for different numbers of base learners (1-30):
 
 <img src = "/Figures/EnsembleSizeResponseTimeImprovement.png" width = "300" />
 
 ### 2.5.6 All Model Predictions 
 
-Predictions made on all experimental sensor response time series in the test set are shown in section 6 of this [notebook](Python/FiguresExperimentalDataModel.ipynb#FiguresExperimentalDataModelSection6).
+Predictions made on all experimental sensor response time series in the test set.
 
 ## 6. FAQs
 
